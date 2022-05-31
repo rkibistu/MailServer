@@ -1,8 +1,7 @@
 # MailServer
   SMTP server-client + IMAP server, low level implementation.
-  
-  The servers were hosted in the internet and it wokred to comunicate with big servers like gmail and yahoo.
-  
+  The servers were hosted on the internet and it worked to communicate with big servers like Gmail and yahoo.
+
  ### Bibliography
-  The project was uplaoded on Github 1-2 years later and I lost the sites that helped the developing process.
+  The project was uploaded on Github 1-2 years later and I lost the sites that helped the developing process.
   
