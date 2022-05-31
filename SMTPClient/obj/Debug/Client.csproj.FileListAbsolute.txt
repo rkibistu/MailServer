@@ -1,0 +1,45 @@
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\bin\Debug\ClientWPF.exe.config
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\bin\Debug\ClientWPF.exe
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\bin\Debug\ClientWPF.pdb
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\Client.csprojAssemblyReference.cache
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\MainWindow.g.cs
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\App.g.cs
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.cache
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.lref
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\MainWindow.baml
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\ClientWPF.g.resources
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\ClientWPF.Properties.Resources.resources
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\Client.csproj.GenerateResource.cache
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\ClientWPF.exe
+D:\ATM\BazeDate\vsProjects\Client_Server_App\ClientWPF\obj\Debug\ClientWPF.pdb
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\bin\Debug\ClientWPF.exe.config
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\bin\Debug\ClientWPF.exe
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\bin\Debug\ClientWPF.pdb
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\MainWindow.g.cs
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\App.g.cs
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\ClientWPF_MarkupCompile.cache
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\ClientWPF_MarkupCompile.lref
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\MainWindow.baml
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\ClientWPF.g.resources
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\ClientWPF.Properties.Resources.resources
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\ClientWPF.exe
+D:\ATM\BazeDate\vsProjects\MultiThread_ClientServer\Client_Server-App\Client\obj\Debug\ClientWPF.pdb
+D:\ATM\Proitect SO\Client\bin\Debug\ClientWPF.exe.config
+D:\ATM\Proitect SO\Client\bin\Debug\ClientWPF.exe
+D:\ATM\Proitect SO\Client\bin\Debug\ClientWPF.pdb
+D:\ATM\Proitect SO\Client\obj\Debug\MainWindow.g.cs
+D:\ATM\Proitect SO\Client\obj\Debug\App.g.cs
+D:\ATM\Proitect SO\Client\obj\Debug\ClientWPF_MarkupCompile.cache
+D:\ATM\Proitect SO\Client\obj\Debug\ClientWPF_MarkupCompile.lref
+D:\ATM\Proitect SO\Client\obj\Debug\MainWindow.baml
+D:\ATM\Proitect SO\Client\obj\Debug\ClientWPF.g.resources
+D:\ATM\Proitect SO\Client\obj\Debug\ClientWPF.Properties.Resources.resources
+D:\ATM\Proitect SO\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\ATM\Proitect SO\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\ATM\Proitect SO\Client\obj\Debug\ClientWPF.exe
+D:\ATM\Proitect SO\Client\obj\Debug\ClientWPF.pdb
+D:\ATM\Proitect SO\Client\obj\Debug\Client.csproj.AssemblyReference.cache

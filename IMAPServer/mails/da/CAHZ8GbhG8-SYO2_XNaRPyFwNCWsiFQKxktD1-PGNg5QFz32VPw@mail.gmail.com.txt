@@ -1,0 +1,49 @@
+Received: by mail-wm1-f54.google.com with SMTP id az34-20020a05600c602200b0033bf8662572so2210342wmb.0
+        for <da@razvi.rest>; Wed, 08 Dec 2021 08:36:21 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=3DtomJbgv6zB627+nqz0OyG3W5Mit2UulcUBQOobnNY=;
+        b=EHxoby0QVptKfU4Q3J0yFoRy+SAZVT9xrOW5r68MkFcs9Hk6gUYRrmotPgcIptmTPn
+         FgK1v78+zSBYk+6qL+H5/ClvjmfT7hXWVYmv4bXmfgIpEOnuXaYyWdlYHXSJhMQMzXq/
+         sJYSL6wUALtKkqinHzZxYWFjfqptYkHyuc9//CNhio3GlnLFiXO+dieIlypeDgACcI2g
+         ax0OvPFl0vdU6FwFRC4voEYHZMKXMP1ETk+CTbyPWsYSj6TeysaADbuUYh9VLLPfZ3EN
+         Y39csL2unjyJMDmGI3nCVqNPJ60xBelfvmVdCcmk18/9OkI9/Nyb0bLHJja89RZsu2BU
+         iuvQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=3DtomJbgv6zB627+nqz0OyG3W5Mit2UulcUBQOobnNY=;
+        b=k6Rs2aqmdJtI1xzg56btPv6arcV7Yt/LXCtVn4qds/1yQikK+TTWoUqqTOq872G+w3
+         9UweYCjWyjGm0FJaNW6FIY5GAOvndYnlvmwu111G11dq3Q5tR8CFllSwZpQB6bRckySO
+         tNILboh9yRHk29g2NODInkU+OUJJZEVrBTxYKHZApqekgCY0zVM1DJDr6JTdfgULLSN1
+         rQOfrW93g0MM440dDklvO8YwWs1hMrLgC5LnppzxCBqIwd69dHO5MkvM4CMMoiwNbB6Q
+         BalydbwelulefxTT1LELavyp+fLqnmrXK0A6YAqE0QGygPBgq2sD+2YhLAYsXiCORg0e
+         IsdA==
+X-Gm-Message-State: AOAM532n8p5KqBsuNYLCEoaJ53N5aWxq7Snzrx/IPEL8VNhPuk/tzjlG
+	LUgjlNan61TGSqP2kW3JrSdmMzxKh8gtR0j+gFHWVnnob7M=
+X-Google-Smtp-Source: ABdhPJyI4M5pAyC8S3vTsR6jh0eDfzTilV3SjMtAuuSK5GLCscjbKId/rLbRVKR2KUdsgREZ6A+fUnLdh1+MvLU6T4w=
+X-Received: by 2002:a1c:6a04:: with SMTP id f4mr17532505wmc.56.1638981381713;
+ Wed, 08 Dec 2021 08:36:21 -0800 (PST)
+MIME-Version: 1.0
+From: "Razvan O." <ogreanrazvan@gmail.com>
+Date: Wed, 8 Dec 2021 18:36:11 +0200
+Message-ID: <CAHZ8GbhG8-SYO2_XNaRPyFwNCWsiFQKxktD1-PGNg5QFz32VPw@mail.gmail.com>
+Subject: 2
+To: da@razvi.rest
+Content-Type: multipart/alternative; boundary="0000000000000cf11805d2a51754"
+
+--0000000000000cf11805d2a51754
+Content-Type: text/plain; charset="UTF-8"
+
+dsadas
+d
+asdas
+
+--0000000000000cf11805d2a51754
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">dsadas<div>d</div><div>asdas</div></div>
+
+--0000000000000cf11805d2a51754--
+.

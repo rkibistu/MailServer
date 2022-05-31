@@ -1,0 +1,49 @@
+Received: by mail-wr1-f51.google.com with SMTP id t9so8303959wrx.7
+        for <da@razvi.rest>; Thu, 09 Dec 2021 00:29:09 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=Rt4zLnh2W7KcdrV4wG32o7hSzxTnGNj0uedFqzb05g4=;
+        b=eBsOzK4C94yA4m++n0CuEvoN8tBm0ZcEmdAIn5Pro7pxF+D0f4UymNJuDsG1aVucYM
+         z2A7PFhvHWygb8l4W1QsyBTpPMyB4zXap0sw0RDae0Ub+t5u46qACS4E0iK8vWqSVg4g
+         XHMup/SK6YTxbJOAaeDeLq7joerFcu/kNBxhhVjZbfSGy+47xdxzRGUcq8AePMStN75V
+         FcguWzxX/YC0b4fWSBZmYVdq5260ctieZGP0se5kFsLEfNkBHHmHx5hwUqOB7N8E0AVu
+         4RpUuTWzFbuitc/yTiQdj6JqnQbXPAszZrBea4MlbJyiwsggtC4Nd6T9GaAIOE1o8miR
+         Ra5g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=Rt4zLnh2W7KcdrV4wG32o7hSzxTnGNj0uedFqzb05g4=;
+        b=6ZqozwmipEcYXbkK3yptScsnO2xB3fpkW5IX90X4cyuyM3gCduWBEwZZW9NTub7jV2
+         /Udl1ft49P8A4J1r/bJS9ZYMB6Y+1Q9EnnWo1vy14Fc3rd0sF3SxsSvAGl7mLNUKTHKi
+         O1/1+orRyI/xxS5Zv8CPqi5Il3/Cm/oL2yGC2hPM/HG+ulTBtZPevwTjwB2jHcUwAQdc
+         /GLgh7rQErIuZRYHiTt1cGKsnVx4ooVT+aqMZ+vwZFKLBuk+RNdJTyrdIVFeHHgzbRnE
+         u5T9VsDeBv3N7TMTzLVFCPGMpHDR2Z76HBKysStla0oS0/SEO1iXpCarc7K6q1x5r1MT
+         /htw==
+X-Gm-Message-State: AOAM531wbU8EdlXSTOzz0RRmMzT7PngUkFOgC5/EziAbsYzvg6iBEdlJ
+	GkP+VMcJ3ZC/dZR3Fn47W5Pai13HMEiorUhTV++A2qX4DCw=
+X-Google-Smtp-Source: ABdhPJwZ1b0OajYQt1eUt55Shctj+sbpFmVkcRkrzyPSDe9dzravE5XlORFHIH03BuEdJN8vI/IW2W/h3FhJxTs08Gs=
+X-Received: by 2002:a05:6000:1aca:: with SMTP id i10mr4742922wry.407.1639038549254;
+ Thu, 09 Dec 2021 00:29:09 -0800 (PST)
+MIME-Version: 1.0
+From: "Razvan O." <ogreanrazvan@gmail.com>
+Date: Thu, 9 Dec 2021 10:28:57 +0200
+Message-ID: <CAHZ8GbgA_hHC--9ncAhsi=hiWH1BS-DF=wnZpiN9jTDOMPZYUw@mail.gmail.com>
+Subject: Subiect serios
+To: da@razvi.rest
+Content-Type: multipart/alternative; boundary="00000000000080659305d2b26657"
+
+--00000000000080659305d2b26657
+Content-Type: text/plain; charset="UTF-8"
+
+linie serioasa
+linie cu gluma
+iar linie serioasa
+
+--00000000000080659305d2b26657
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">linie serioasa<div>linie cu gluma</div><div>iar linie serioasa</div></div>
+
+--00000000000080659305d2b26657--
+.

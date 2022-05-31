@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImapServer": {
+      "commandName": "Project",
+      "commandLineArgs": "listener-ip=5.15.47.52 listener-port=993 received-path=D:\\ATM\\Proitect_SO\\ImapServer\\mails"
+    }
+  }
+}

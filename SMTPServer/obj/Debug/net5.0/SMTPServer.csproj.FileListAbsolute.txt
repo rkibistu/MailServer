@@ -1,0 +1,16 @@
+D:\ATM\Proitect SO\SMTPServer\bin\Debug\net5.0\SMTPServer.exe
+D:\ATM\Proitect SO\SMTPServer\bin\Debug\net5.0\SMTPServer.deps.json
+D:\ATM\Proitect SO\SMTPServer\bin\Debug\net5.0\SMTPServer.runtimeconfig.json
+D:\ATM\Proitect SO\SMTPServer\bin\Debug\net5.0\SMTPServer.runtimeconfig.dev.json
+D:\ATM\Proitect SO\SMTPServer\bin\Debug\net5.0\SMTPServer.dll
+D:\ATM\Proitect SO\SMTPServer\bin\Debug\net5.0\ref\SMTPServer.dll
+D:\ATM\Proitect SO\SMTPServer\bin\Debug\net5.0\SMTPServer.pdb
+D:\ATM\Proitect SO\SMTPServer\obj\Debug\net5.0\SMTPServer.csproj.AssemblyReference.cache
+D:\ATM\Proitect SO\SMTPServer\obj\Debug\net5.0\SMTPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATM\Proitect SO\SMTPServer\obj\Debug\net5.0\SMTPServer.AssemblyInfoInputs.cache
+D:\ATM\Proitect SO\SMTPServer\obj\Debug\net5.0\SMTPServer.AssemblyInfo.cs
+D:\ATM\Proitect SO\SMTPServer\obj\Debug\net5.0\SMTPServer.csproj.CoreCompileInputs.cache
+D:\ATM\Proitect SO\SMTPServer\obj\Debug\net5.0\SMTPServer.dll
+D:\ATM\Proitect SO\SMTPServer\obj\Debug\net5.0\ref\SMTPServer.dll
+D:\ATM\Proitect SO\SMTPServer\obj\Debug\net5.0\SMTPServer.pdb
+D:\ATM\Proitect SO\SMTPServer\obj\Debug\net5.0\SMTPServer.genruntimeconfig.cache

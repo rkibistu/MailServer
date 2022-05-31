@@ -1,0 +1,38 @@
+D:\ATM\Proitect SO\ImapServer\obj\Debug\net5.0\ImapServer.csproj.AssemblyReference.cache
+D:\ATM\Proitect SO\ImapServer\obj\Debug\net5.0\ImapServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATM\Proitect SO\ImapServer\obj\Debug\net5.0\ImapServer.AssemblyInfoInputs.cache
+D:\ATM\Proitect SO\ImapServer\obj\Debug\net5.0\ImapServer.AssemblyInfo.cs
+D:\ATM\Proitect SO\ImapServer\obj\Debug\net5.0\ImapServer.csproj.CoreCompileInputs.cache
+D:\ATM\Proitect SO\ImapServer\bin\Debug\net5.0\ImapServer.exe
+D:\ATM\Proitect SO\ImapServer\bin\Debug\net5.0\ImapServer.deps.json
+D:\ATM\Proitect SO\ImapServer\bin\Debug\net5.0\ImapServer.runtimeconfig.json
+D:\ATM\Proitect SO\ImapServer\bin\Debug\net5.0\ImapServer.runtimeconfig.dev.json
+D:\ATM\Proitect SO\ImapServer\bin\Debug\net5.0\ImapServer.dll
+D:\ATM\Proitect SO\ImapServer\bin\Debug\net5.0\ref\ImapServer.dll
+D:\ATM\Proitect SO\ImapServer\bin\Debug\net5.0\ImapServer.pdb
+D:\ATM\Proitect SO\ImapServer\obj\Debug\net5.0\ImapServer.dll
+D:\ATM\Proitect SO\ImapServer\obj\Debug\net5.0\ref\ImapServer.dll
+D:\ATM\Proitect SO\ImapServer\obj\Debug\net5.0\ImapServer.pdb
+D:\ATM\Proitect SO\ImapServer\obj\Debug\net5.0\ImapServer.genruntimeconfig.cache
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\ImapServer.exe
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\ImapServer.deps.json
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\ImapServer.runtimeconfig.json
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\ImapServer.runtimeconfig.dev.json
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\ImapServer.dll
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\ref\ImapServer.dll
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\ImapServer.pdb
+D:\ATM\Proitect_SO\ImapServer\obj\Debug\net5.0\ImapServer.csproj.AssemblyReference.cache
+D:\ATM\Proitect_SO\ImapServer\obj\Debug\net5.0\ImapServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATM\Proitect_SO\ImapServer\obj\Debug\net5.0\ImapServer.AssemblyInfoInputs.cache
+D:\ATM\Proitect_SO\ImapServer\obj\Debug\net5.0\ImapServer.AssemblyInfo.cs
+D:\ATM\Proitect_SO\ImapServer\obj\Debug\net5.0\ImapServer.csproj.CoreCompileInputs.cache
+D:\ATM\Proitect_SO\ImapServer\obj\Debug\net5.0\ImapServer.dll
+D:\ATM\Proitect_SO\ImapServer\obj\Debug\net5.0\ref\ImapServer.dll
+D:\ATM\Proitect_SO\ImapServer\obj\Debug\net5.0\ImapServer.pdb
+D:\ATM\Proitect_SO\ImapServer\obj\Debug\net5.0\ImapServer.genruntimeconfig.cache
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\MailKit.dll
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\MimeKit.dll
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\ATM\Proitect_SO\ImapServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\ATM\Proitect_SO\ImapServer\obj\Debug\net5.0\ImapServer.csproj.CopyComplete

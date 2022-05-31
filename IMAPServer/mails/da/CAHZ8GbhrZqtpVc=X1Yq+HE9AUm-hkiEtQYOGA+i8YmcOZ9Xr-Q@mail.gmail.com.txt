@@ -1,0 +1,48 @@
+Received: by mail-wm1-f45.google.com with SMTP id p3-20020a05600c1d8300b003334fab53afso4572451wms.3
+        for <da@razvi.rest>; Wed, 08 Dec 2021 08:34:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=Y/Fx5+lQM+ca/jmrPDx+TYosF3VCVHj4nNnN6mvUTlY=;
+        b=E6a0/ggYne3eRzjkyemorMD9ytZM7ez/t22IQyGRG7rRGec+zQc6J6J96zcbaHSXfj
+         r+4fxx8ez4A58nOb0rh+1/6+tTz17HgHtPXeUxViYqQ8ms1ipQXc0nKVSAt2pMKTEDtI
+         Kak3f8+s1Bibdi6RU8BH1G3Cs1eQck3h/csJg1eH/mUQxJNQmthwzWg977Cq9z3O8G4n
+         aC9+aXe/tW0XlCiIZg2jA66MZEfqR97wYt3CaaJxhYZE8QsrCP8MJDKFtRtLd55GqyCD
+         kalrsY4dJ6nUwvDv6lvOMDdLNGGkReU/2avobMLgSkmppy2EKX47QjAtUduRSSABr3Qa
+         foOw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=Y/Fx5+lQM+ca/jmrPDx+TYosF3VCVHj4nNnN6mvUTlY=;
+        b=RG8EYZxQe5NQhhDHmST7oRbYmxmjkKk4Fyl2nF6xJnud+7x6niqwWduJlhZsWxz7gw
+         2tTTDjQ+W7LCNGc+xJvxoaUkf45JxsV1a+AqcQtnjFZcu1pC6LJZq1kmQyM5irlP8BXI
+         wbeQdI+9/HT02hUTrFkUhBaN6hGkNrv0zwTvW5DZo0LYNHHgJ2VgHJ7BoEPSL0ZswRT6
+         sGkLajgk+4MXjEA5XZj3HgM24sicSQCbuMkO6LiWYNOUgwc1fLc0VWNG+dKf0GKeRB2Z
+         4gr9Taexu8oDzyedAqynZdeSyJNzTPgzYEJqKnh7iDos0PBvl5s9lT3HKYzpDML4fUN+
+         sj/A==
+X-Gm-Message-State: AOAM532gWTTiT5fq6q5ysViESgi6ojlmPPCcv9fir7C5kv1KnItlfRrU
+	eA1d7yet5BpujPkXH4WNOZqBiriT5+H6uv3gvJx6Yr17cGU=
+X-Google-Smtp-Source: ABdhPJwoe5Wu9EMpgJyjf8BirJoWiPiUzVfXS1kpZ/uNAWlKYT/cnKDSEQOPYhseiXDKD0AwIAWWLBXK3BIZk426Vf4=
+X-Received: by 2002:a05:600c:510d:: with SMTP id o13mr17299949wms.104.1638981287215;
+ Wed, 08 Dec 2021 08:34:47 -0800 (PST)
+MIME-Version: 1.0
+From: "Razvan O." <ogreanrazvan@gmail.com>
+Date: Wed, 8 Dec 2021 18:34:36 +0200
+Message-ID: <CAHZ8GbhrZqtpVc=X1Yq+HE9AUm-hkiEtQYOGA+i8YmcOZ9Xr-Q@mail.gmail.com>
+Subject: subj
+To: da@razvi.rest
+Content-Type: multipart/alternative; boundary="0000000000006b08c905d2a5114d"
+
+--0000000000006b08c905d2a5114d
+Content-Type: text/plain; charset="UTF-8"
+
+lin1
+lin2
+
+--0000000000006b08c905d2a5114d
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">lin1<div>lin2</div><div><br></div></div>
+
+--0000000000006b08c905d2a5114d--
+.
